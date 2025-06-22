@@ -1,0 +1,10 @@
+Django==4.2.16
+pymysql
+djangorestframework
+djangorestframework-simplejwt
+dj-rest-auth 
+django-allauth 
+social-auth-app-django
+django-filter
+openpyxl
+psycopg2
