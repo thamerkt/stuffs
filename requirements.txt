@@ -8,3 +8,4 @@ social-auth-app-django
 django-filter
 openpyxl
 psycopg2
+pika
