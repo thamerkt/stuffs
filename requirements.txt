@@ -9,3 +9,4 @@ django-filter
 openpyxl
 psycopg2
 pika
+httpx
